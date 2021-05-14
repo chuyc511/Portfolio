@@ -22,7 +22,8 @@
 主要利用 d3.js 拖曳物件搬移圖片以及製作分支樹訓練模型。
 
 ![image](https://user-images.githubusercontent.com/68286984/118290857-7a880600-b509-11eb-8379-6fa5903d9bb0.png)
-![image](https://user-images.githubusercontent.com/68286984/118290868-7d82f680-b509-11eb-948b-f230e462f6ed.png)
+![image](https://user-images.githubusercontent.com/68286984/118291841-98099f80-b50a-11eb-9cd3-ca97410616dd.png)
+
 
 
 
