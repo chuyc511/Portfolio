@@ -4,5 +4,6 @@
 
 攝影機即時辨識畫面(Web Django)
 後端使用 Flask 框架將 OpenCV 流(攝影機即時辨識結果、ROI區域)傳輸到 Web 上，並針對 NG情況做出警報。 
+
 ![image](https://user-images.githubusercontent.com/68286984/118290053-95a64600-b508-11eb-94f9-9ed5bd340dab.png)
 
